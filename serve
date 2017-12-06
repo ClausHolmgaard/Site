@@ -1,0 +1,1 @@
+hugo server -s ~/git/Site/ -d ~/git/clausholmgaard.github.io/
